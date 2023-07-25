@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.1](https://github.com/web3-storage/w3up/compare/upload-api-v4.1.0...upload-api-v4.1.1) (2023-07-25)
+
+
+### Bug Fixes
+
+* run format for upload-api ([#825](https://github.com/web3-storage/w3up/issues/825)) ([59dc765](https://github.com/web3-storage/w3up/commit/59dc7659a6a19942fad5f73efbed84cc33381314))
+
 ## [4.1.0](https://github.com/web3-storage/w3up/compare/upload-api-v4.0.0...upload-api-v4.1.0) (2023-06-20)
 
 

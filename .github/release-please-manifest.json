@@ -3,7 +3,7 @@
   "packages/aggregate-api": "1.0.0",
   "packages/aggregate-client": "1.0.0",
   "packages/capabilities": "7.0.0",
-  "packages/upload-api": "4.1.0",
+  "packages/upload-api": "4.1.1",
   "packages/upload-client": "9.1.0",
   "packages/w3up-client": "8.0.1",
   "packages/did-mailto": "2.0.0"
